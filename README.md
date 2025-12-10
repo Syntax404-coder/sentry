@@ -1,7 +1,3 @@
-Here is a comprehensive, professional `README.md` file for the Sentry project. It is formatted using standard Markdown syntax suitable for GitHub, GitLab, or Azure DevOps.
-
------
-
 # Sentry: Advanced Process Monitoring & System Activity Tracker
 
 **Sentry** is a high-performance Command-Line Interface (CLI) utility designed for power users, system administrators, and developers. Built entirely within the PowerShell environment, it bridges the gap between standard monitoring tools (like Task Manager) and kernel-level system manipulation.
