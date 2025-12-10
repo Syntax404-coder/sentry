@@ -4,20 +4,6 @@
 
 Sentry provides granular control over running applications, including the ability to suspend execution threads, latch processes to specific CPU cores, and surgically remove startup applications from the Windows Registry.
 
-## Table of Contents
-
-1.  [Overview](https://www.google.com/search?q=%23overview)
-2.  [Key Features](https://www.google.com/search?q=%23key-features)
-3.  [System Requirements](https://www.google.com/search?q=%23system-requirements)
-4.  [Installation](https://www.google.com/search?q=%23installation)
-5.  [Usage Guide](https://www.google.com/search?q=%23usage-guide)
-      * [Main Menu](https://www.google.com/search?q=%23main-menu)
-      * [Deep Process Control](https://www.google.com/search?q=%23deep-process-control)
-      * [Startup Manager](https://www.google.com/search?q=%23startup-manager)
-6.  [Technical Architecture](https://www.google.com/search?q=%23technical-architecture)
-7.  [Disclaimer](https://www.google.com/search?q=%23disclaimer)
-8.  [License](https://www.google.com/search?q=%23license)
-
 -----
 
 ## Overview
